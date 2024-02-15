@@ -4,13 +4,13 @@ public class RevisaoAulaPassada {
 
         // tipos que mais usaremos
 
-        String nome = "Gustavo";
+        String nome = "Gustavo"; // string são letras
 
-        Integer numeroSorteio = 42;
+        Integer numeroSorteio = 42; // integear são números inteiros.
 
-        Double altura = 1.67;
+        Double altura = 1.67;  // Double é número quebrado
 
-        Boolean verdadeiro = false;
+        Boolean verdadeiro = false; // Boolean é Verdadeiro ou falso.
 
         /////////////////////////////////////////////////
 
@@ -32,7 +32,7 @@ public class RevisaoAulaPassada {
                 " meu número sorteado é " + numeroSorteio +
                 " e minha altura é " + altura);
 
-        
+
 
     }
 
